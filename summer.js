@@ -33,7 +33,7 @@ Others
 1. array: map, forEach, filter, find
 2. ternary operator 
 3. logical and logical or && ||
-4. JOSN (stringify, parse)
+4. JSON (stringify, parse)
 5. +, 
 
 */
